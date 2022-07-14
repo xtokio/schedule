@@ -2,7 +2,7 @@
 
 # Schedule [![Build Status](https://travis-ci.org/hugoabonizio/schedule.cr.svg?branch=master)](https://travis-ci.org/hugoabonizio/schedule.cr)
 
-**Schedule** is a Crystal shard that provides a clear DSL to write periodic or scheduled tasks. It has the ability to stop or retry the job whenever is necessary, with proper ways to handle exceptions. See usage examples in [examples](https://github.com/xtokio/schedulecr/tree/master/examples) folder.
+**Schedule** is a Crystal shard that provides a clear DSL to write periodic or scheduled tasks. It has the ability to stop or retry the job whenever is necessary, with proper ways to handle exceptions. See usage examples in [examples](https://github.com/xtokio/schedule/tree/master/examples) folder.
 
 
 ## Installation
@@ -12,7 +12,7 @@ Add this to your application's `shard.yml`:
 ```yaml
 dependencies:
   schedule:
-    github: xtokio/schedulecr
+    github: xtokio/schedule
 ```
 
 ## Usage
